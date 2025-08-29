@@ -27,3 +27,5 @@ Integration: Add to CLI: kii-chain governance propose "New feature".
 Testing: Write e2e tests for voting (use Polkadot.js for simulation).
 Launch: Add a section to CONTRIBUTING.md: "How to propose changes via DAO".
 Potential challenges: Protect against attacks (Sybil attacks) — use minimum staking for voting.
+
+
